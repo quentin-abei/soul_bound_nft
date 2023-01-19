@@ -2,15 +2,15 @@ Smart contract dans contracts/
 Les tests dans test/
 Et les scripts de déploiement et mint sans scripts/
 
-gît clone https://github.com/quentin-abei/soul_bound_nft
+```gît clone https://github.com/quentin-abei/soul_bound_nft```
 
-cd soul_bound_nft
+```cd soul_bound_nft```
 
-npm install 
+```npm install``` 
 
-touch .env
+```touch .env```
 
-code .
+```code .```
 
 dans .env ajoute ton URL qui pointe vers Goerli ( alchemy , infura etc..)sous le nom GOERLI_URL,
 et ta clé privée metamask sous le nom PRIVATE_KEY
